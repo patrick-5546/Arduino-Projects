@@ -4,11 +4,11 @@
 Prototype alarm system for a bedroom, will put a computer to sleep if one of the various triggers (line 90) are tripped.
 
 ## Demonstration Videos
-* Arming System
+### Arming System
 [![Arming System](http://img.youtube.com/vi/LOwOBUHwuXo/0.jpg)](http://www.youtube.com/watch?v=LOwOBUHwuXo "Arming System")
-* Unsuccessful Disarm
+### Unsuccessful Disarm
 [![Unsuccessful Disarm](http://img.youtube.com/vi/nKeZmewk6yI/0.jpg)](http://www.youtube.com/watch?v=nKeZmewk6yI "Unsuccessful Disarm")
-* Successful Disarm
+### Successful Disarm
 [![Successful Disarm](http://img.youtube.com/vi/gS8iS0t9fhE/0.jpg)](http://www.youtube.com/watch?v=gS8iS0t9fhE "Successful Disarm")
 
 ## Materials List
