@@ -1,4 +1,4 @@
-# Reacton Game
+# Reacton Time Tester
 
 ## Purpose
 To test your reaction time when a LED lights by pressing the corresponding button keeps track of the your high score for the round and average.
