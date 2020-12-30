@@ -1,7 +1,7 @@
 # Security System
 
 ## Purpose
-Prototype alarm system, will put a computer to sleep if one of the various triggers (line 90) are tripped.
+Prototype alarm system, will shut off computer if one of various conditions ([listed here](https://github.com/patrick-5546/Arduino-Projects/blob/main/Security_System/Security_System.ino#L90)) are triggered.
 
 ## Demonstration Videos
 ### Arming System
