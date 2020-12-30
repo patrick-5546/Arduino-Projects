@@ -1,7 +1,7 @@
 # Security System
 
 ## Purpose
-Prototype alarm system for a bedroom, will put a computer to sleep if one of the various triggers (line 90) are tripped.
+Prototype alarm system, will put a computer to sleep if one of the various triggers (line 90) are tripped.
 
 ## Demonstration Videos
 ### Arming System
